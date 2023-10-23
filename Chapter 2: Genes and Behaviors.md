@@ -3,13 +3,13 @@
 * RNA and proteins encoded by genes affect brains - at different times and at many levels,
   * e.g. developmental program, synapes' neural circuit function
 * Goal of the chapter: How genes contribute to behavior
-* Chapter Abstract
+* Chapter table of content
   1. Overview of the evidence that genese influcence behavior
   2. review basic principal of molecular biology and genetic transmission
   3. Examples
   4. Recent progress
 
-# Evidence that genese influcence behavior 
+# Evidence that genes influcence behavior 
 * **Twin studies**
   * Monozygotic twins: Identical twins develop from a single fertilized egg, share all genes
   * Fraternal twins: develoepd from two different fertilized egg, like siblings, share on average half theri genetics information
