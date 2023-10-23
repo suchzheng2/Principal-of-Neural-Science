@@ -22,3 +22,6 @@
 
 * Limitation: Twin study does not tell us which genetic and enviromental factors are influence behavior
   * this is addressed by experimental animal and modern method on gene discovery
+
+# Review basic principal of molecular biology and genetic transmission
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
