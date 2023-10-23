@@ -24,4 +24,6 @@
   * this is addressed by experimental animal and modern method on gene discovery
 
 # Review basic principal of molecular biology and genetic transmission
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/suchzheng2/Principal-of-Neural-Science
+
+/blob/main/images/DNA.png?raw=true)
